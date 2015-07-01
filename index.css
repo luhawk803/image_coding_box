@@ -1,0 +1,89 @@
+/* CSS Document */
+
+body { background-image: url(images/BG-pattern.jpg) } 
+
+#container{
+position: relative;
+width: 707px;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+top:0px;
+}
+
+
+.mainimage {
+	background-image: url(images/index_02.jpg);
+	position: absolute;
+	height: 532px;
+	left:0px; 
+	width: 707px;
+	top: 0px;
+}
+
+a img { border-style:none; }
+
+.left {
+	background-image: url(images/index_04.jpg);
+	position: absolute;
+	height: 168px;
+	width: 175px;
+	top: 532px;
+	left:0px; 
+}
+.right {
+	background-image: url(images/index_09.jpg);
+	position: absolute;
+	height: 168px;
+	width: 156px;
+	left: 551px;
+	top: 532px;
+}
+.nav1 {
+	position: absolute;
+	height: 35px;
+	width: 376px;
+	left: 175px;
+	top: 532px;
+}
+.nav2 {
+	position: absolute;
+	height: 49px;
+	width: 376px;
+	left: 175px;
+	top: 567px;
+}
+.nav3 {
+	position: absolute;
+	height: 21px;
+	width: 161px;
+	left: 280px;
+	top: 616px;
+}
+.spaceleft {
+	position: absolute;
+	height: 84px;
+	width: 105px;
+	left: 175px;
+	top: 616px;
+	background-image: url(images/index_15.jpg);
+}
+.spaceright {
+	background-image: url(images/index_18.jpg);
+	position: absolute;
+	height: 84px;
+	width: 110px;
+	left: 441px;
+	top: 616px;
+}
+
+.bottom {
+	background-image: url(images/index_19.jpg);
+	position: absolute;
+	left: 280px;
+	top: 637px;
+	height: 63px;
+	width: 161px;
+}
+
+
